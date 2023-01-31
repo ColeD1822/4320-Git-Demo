@@ -1,3 +1,3 @@
-#Git Demo in Class
+# Git Demo in Class
 
-actually learning Git
+Actually learning Git!
